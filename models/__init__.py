@@ -1,5 +1,5 @@
 #!/usr/bin/python3
-"""__init__ is magic method for model directory"""
+"""This module instantiates object of class FileStorage"""
 from models.engine.file_storage import FileStorage
 
 
